@@ -11,3 +11,10 @@ Dự án mô phỏng hạ tầng mạng cho doanh nghiệp gồm 2 tòa nhà (To
 **Services:** Tích hợp DHCP Server, DNS và Web nội bộ.
 ## 🖼 Topology Diagram
 <img width="1496" height="551" alt="Image" src="https://github.com/user-attachments/assets/5b42c26d-5feb-4ccf-ade3-83b0d975f6d9" />
+Để xem chi tiết cấu hình và mô phỏng hoạt động của mạng, vui lòng làm theo các bước sau:
+
+B1:Tải phần mềm: Đảm bảo máy tính đã cài đặt Cisco Packet Tracer (phiên bản 8.0 trở lên để tránh lỗi định dạng).
+
+B2:Tải file dự án: Tải rawfile có đuôi .pkt trong thư mục chính của Repository này về máy.
+
+B3:Mở file: Khởi động Packet Tracer và mở file vừa tải.
