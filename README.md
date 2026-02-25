@@ -16,5 +16,7 @@ Dự án mô phỏng hạ tầng mạng cho doanh nghiệp gồm 2 tòa nhà (To
 B1:Tải phần mềm: Đảm bảo máy tính đã cài đặt Cisco Packet Tracer (phiên bản 8.0 trở lên để tránh lỗi định dạng).
 
 B2:Tải file dự án: Tải rawfile có đuôi .pkt trong thư mục chính của Repository này về máy.
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/1a7a8939-578e-461a-915b-20d1657f9ace" />
+
 
 B3:Mở file: Khởi động Packet Tracer và mở file vừa tải.
